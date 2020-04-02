@@ -154,6 +154,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "A9AdminLTE"
+    }
+  },
+  "defaultProject": "A9AdminLTE",
+  "cli": {
+    "analytics": false
+  }
 }
